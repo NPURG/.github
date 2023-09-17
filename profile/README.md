@@ -1,12 +1,15 @@
-## Hi there 👋
+## Hi, this is NPU-CS-418 👋
 
-<!--
+**🙋‍♀️ A short introduction**
 
-**Here are some ideas to get you started:**
+This is the 418 Laboratory of Department 4, School of Computer Science, Northwestern Polytechnical University, and we are committed to the work of **identifying false information**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**👩‍💻 Repositories**
+|  Repository                                         | Description                                                                       |
+|  ---                                                | ----                                                                              |
+| [XSiteTraj](https://github.com/NPURG/XSiteTraj)     | There are 3 datasets in this repository: Facebook, Foursquare, and Twitter.       |
+| [FaKnow](https://github.com/NPURG/FaKnow)           | FaKnow is designed for reproducing and developing fake news detection algorithms. |
+
+**🍿 Fun facts**
+
+We are all a group of kind and interesting programmers!
