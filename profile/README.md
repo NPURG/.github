@@ -2,7 +2,7 @@
 
 **🙋‍♀️ A short introduction**
 
-This is the 418 Laboratory of Department 4, School of Computer Science, Northwestern Polytechnical University, and we are committed to the work of **identifying false information**.
+This is the 418 Laboratory of Department 4, School of Computer Science, Northwestern Polytechnical University, and we are committed to the work of **fake news detection**.
 
 **👩‍💻 Repositories**
 |  Repository                                         | Description                                                                       |
